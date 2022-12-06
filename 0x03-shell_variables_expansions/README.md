@@ -1,1 +1,1 @@
-shell variables expansions read me
+shell variables expansions
